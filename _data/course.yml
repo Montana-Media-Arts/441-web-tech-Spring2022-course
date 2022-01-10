@@ -1,0 +1,12 @@
+title: Web Technologies, MART 441
+title-short: Web Tech
+description: An in-depth exploration of JavaScript and the web.
+institution: University of Montana, School of Media Arts
+institution-short: Media Arts | Montana
+
+infoModules: [workspace, syllabus, instructors, help]
+
+modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12, week-13, week-14]
+#modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10]
+#  modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12]
+# modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12, final-info]

@@ -1,0 +1,26 @@
+---
+---
+
+// @import "//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css";
+
+@import "variables";
+@import "bootstrap/bootstrap";
+
+{% if site.jumbotron_color %}
+	$jumbotron-color: {{ site.jumbotron_color }};
+{% else %}
+ $jumbotron-color: $p2pu-blue;
+{% endif %}
+
+{% if site.jumbotron_background_image %}
+	$jumbotron-image: '{{ site.jumbotron_background_image }}';
+{% else %}
+	$jumbotron-image: 'banner.svg';
+{% endif %}
+
+@import "common";
+@import "nav";
+@import "landing";
+// @import "calendar";
+@import "displayCodeExample";
+@import "syntax-highlight";
