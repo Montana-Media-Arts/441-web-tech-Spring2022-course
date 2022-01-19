@@ -27,6 +27,7 @@ To do this;
 - change the `"Make some changes and see what happens!"` text
     - perhaps add/change some more text?
 - You should now see your changes!
+- don't forget to go to the web console.
 
 
 <p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="oNGRqpz" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
@@ -40,7 +41,7 @@ To do this;
 </div>
 <div id="links" class="tabcontent" >
 <div class="tabhtml" markdown="1">
-# Code Links
+## Code Links
 
 Below are some code examples
 
