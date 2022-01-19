@@ -14,15 +14,10 @@ jotted: true
 <div class="tabhtml" markdown="1">
 Whenever possible, I will try to provide code output in a way that is editable, changeable, and playable by you.
 
-- "Result"
-- "HTML"
-- "JavaScript"
-
 If you see one of these sections, you can;
 
 1. change the code,
-2. go back to "Results."
-3. and see the changes live!
+2. see the results live!
 
 Try it below with the "Hello World!" example.
 
@@ -30,35 +25,16 @@ To do this;
 
 - Click the "JavaScript" tab,
 - change the `"Hello World!"` text in line 4,
-    - perhaps add some more text or change the tag types...?
-- and go back to Results. You should now see your changes!
+    - perhaps add/change some more text?
+- You should now see your changes!
 
 
-<div id="jotted-demo-1" class="jotted-theme-stacked"></div>
-
-<script>
-    new Jotted(document.querySelector("#jotted-demo-1"), {
-    files: [
-        {
-            type: "js",
-            hide: false,
-            url:"https://raw.githubusercontent.com/Montana-Media-Arts/441-WebTech/master/lecture_code/02/02/script.js"
-        },
-        {
-            type: "html",
-            hide: false,
-            url:"https://raw.githubusercontent.com/Montana-Media-Arts/441-WebTech/master/lecture_code/02/02/02_js_outside_html.html"
-
-    }],
-    showBlank: false,
-    showResult: true,
-    runScripts: false,
-    plugins: [
-        { name: 'ace', options: { "maxLines": 100 } },
-        // { name: 'console', options: { autoClear: true } },
-    ]
-});
-</script>
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="oNGRqpz" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/oNGRqpz">
+  experiment with console.log</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 </div>
 </div>

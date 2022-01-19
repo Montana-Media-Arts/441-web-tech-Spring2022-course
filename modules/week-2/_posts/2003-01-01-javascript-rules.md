@@ -38,7 +38,7 @@ Since JavaScript is a full-fledged programming language, it behaves differently 
 <div id="execute" class="tabcontent" markdown="1">
 ## Executing Statements in the Browser
 
-Every modern web browser built for computers (as opposed to mobile devices/OS's) includes a ["web console"](https://www.chromium.org/chromium-os/poking-around-your-chrome-os-device). This console does several things, including;
+Every modern web browser built for computers (as opposed to mobile devices/OS's) includes a ["web console"](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/developer_mode.md). This console does several things, including;
 
 - post errors about the site
 - print out information developers tell it to
