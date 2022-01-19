@@ -24,7 +24,7 @@ Try it below with the "Hello World!" example.
 To do this;
 
 - Click the "JavaScript" tab,
-- change the `"Hello World!"` text in line 4,
+- change the `"Make some changes and see what happens!"` text
     - perhaps add/change some more text?
 - You should now see your changes!
 
