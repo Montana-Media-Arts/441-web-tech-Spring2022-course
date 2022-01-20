@@ -109,7 +109,7 @@ Please wait a few seconds for this to load.
 
 Feel free to try out some of the prior examples. If you want to make changes, please click on **Edit on CodePen**
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="MART 441 Functions" src="https://codepen.io/retrog4m3r/embed/BaLEypd?height=265&theme-id=dark&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="600" style="width: 100%;" scrolling="no" title="MART 441 Functions" src="https://codepen.io/retrog4m3r/embed/BaLEypd?height=265&theme-id=dark&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/retrog4m3r/pen/BaLEypd'>MART 441 Functions</a> by Michael Cassens
   (<a href='https://codepen.io/retrog4m3r'>@retrog4m3r</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
