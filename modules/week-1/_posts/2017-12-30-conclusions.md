@@ -7,7 +7,7 @@ module: 1
 
 That is it for Week 1. I hope you are excited for this course and everything we are going to learn this semester.
 
-Remember, if you need help, you should try using the course ["Issues Forum" hosted on GitHub](https://github.com/Montana-Media-Arts/441-WebTech-Spring2021-Examples/issues).
+Remember, if you need help, you should try using the course ["Issues Forum" hosted on GitHub](https://github.com/Montana-Media-Arts/441-WebTech-Spring2022-Examples/issues).
 
 ## Study Groups
 
