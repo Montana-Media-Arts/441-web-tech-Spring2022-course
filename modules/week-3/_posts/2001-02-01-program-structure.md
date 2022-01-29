@@ -139,7 +139,7 @@ PI = PI + 10;   // This will also give an error
 ```
 
 **Video**
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/7OLJsDclVXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/7EgaAhjw9h8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 </div>
 <div id="Functions" class="tabcontent">
@@ -199,7 +199,7 @@ The prompt() method returns the input value if the user clicks "OK". If the user
 Recognize that the _functions_ can produce _Return Values_
 
 **Video**
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/smVWNLrZnz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/KLvQecAa4fg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 </div>
 <div id="Controls" class="tabcontent">
@@ -217,7 +217,7 @@ _Control Flow_
 - `switch`
 
 **Video**
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/-UZdpIUFGQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/NOW4qHFm13E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 </div>
 <div id="Assignments" class="tabcontent">
@@ -240,7 +240,7 @@ _Control Flow_
     - `--`
 
 **Video**
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/G4v2oGLIIYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/wA3BYiNcIOI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 </div>
 <div id="ToDo" class="tabcontent" >
