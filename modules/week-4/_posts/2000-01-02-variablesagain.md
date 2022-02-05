@@ -85,7 +85,7 @@ We need to add some JavaScript to access the DOM (quick check, you remember the 
 <div id="Video" class="tabcontent" >
 <div class="tabhtml" markdown="1">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/g2SFQfttRYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/sDjc4PS8vFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -94,13 +94,12 @@ We need to add some JavaScript to access the DOM (quick check, you remember the 
 <div class="tabhtml" markdown="1">
 Feel free to explore the code and make changes on CodePen.  
 
-Click on **Edit on CodePen** to experiment.
-
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="qBqWeQK" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Variable Example">
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="qBqWeQK" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/qBqWeQK">
   MART 441 Variable Example</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 </div>
 </div>

@@ -141,7 +141,7 @@ The onclick event is connected to the button.  It says, when I click on the butt
 
 That is the most common way in which you can create a function.  There are other ways.  However, we will look at those as time goes on.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/A48w8znhujU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/l8amEJe0IpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -174,7 +174,7 @@ So, we are sending in the **getName(greeting)** greeting parameter, which means 
 
 Also, notice single quotes surround the message sent into the getName function **onclick="getName('Nice to meet you');"**  Why is that?  It's because the double quotes start and end the call to the function and so we can't use double quotes again.  However, we can use single quotes.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/gzbSPipixbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/d7HN15liCuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -278,9 +278,9 @@ To get started, please read the following, which cover the usage and definition 
 <div id="ToDo" class="tabcontent" >
 <div class="tabhtml" markdown="1">
 
-Please feel free to experiment with the code from the other tabs. Click on **Edit on CodePen** to experiment.
+Please feel free to experiment with the code from the other tabs. 
 
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="result" data-user="retrog4m3r" data-slug-hash="OJbJLvb" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Workspace">
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="OJbJLvb" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/OJbJLvb">
   MART 441 Workspace</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>

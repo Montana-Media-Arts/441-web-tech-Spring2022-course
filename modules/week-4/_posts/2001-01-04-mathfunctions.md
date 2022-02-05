@@ -128,7 +128,7 @@ If you read through this code, we are getting a number between 5 and 10 because 
 
 Oh, yes, and one more thing.  There is a **return** in the method getARandomNumber.  This time, nothing prints in the function, but the results return from the function and printed.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/2h1crDRLVn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/60alzv8i2qE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 What other methods are there?
 </div>
@@ -163,7 +163,7 @@ For example:
 
 So, you can see even though 5-10 is -5, because of the absolute value, it returns 5.  This method is convenient when you need to know the difference between two numbers, like when you need to know the distance between two points.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/wqFoSl8cDDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/bFwNP9YmxZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Are there any others that are useful?  How about Math.PI?
 </div>
@@ -199,7 +199,7 @@ It is handy when trying to figure out which direction players should turn in gam
 ```
 <br />
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/hLwKsR7YX-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/adeaY4xArRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Another handy method is the round method.
 </div>
@@ -233,7 +233,7 @@ Math.round performs rounding for you, so you don't have to create an if statemen
 
 In this case, it will return 4, and if you were to change the .9 to something below 5, then it will return 3.  
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/IN8tjxH8cuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/vybFjazjlgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Another method that you might need is Math.pow.
 </div>
@@ -267,7 +267,7 @@ Here's an example:
 ```
 <br />
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/zhBhAzROKN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/XZ2JsuukjXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The last one we will look at for now is the Math.sqrt.
 </div>
@@ -300,7 +300,7 @@ When we square a number like 2*2, we get 4.  But what about the square root?  To
 
 When you ran this code, what did you get?  Did you get 4?  Good!
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/YJkL-faZbjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/xXggNFkvQwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 That's it for this week. Let's do some more hand-on work and your homework.  As always, let me know if you have more questions!
 </div>
@@ -310,11 +310,9 @@ That's it for this week. Let's do some more hand-on work and your homework.  As 
 
 Please feel free to experiment with the code from the other tabs.
 
-Click on **Edit on CodePen** to experiment.
-
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="result" data-user="retrog4m3r" data-slug-hash="OJbJLvb" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Workspace">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/OJbJLvb">
-  MART 441 Workspace</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="XWzNKEy" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/XWzNKEy">
+  math functions</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

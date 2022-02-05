@@ -50,7 +50,7 @@ If we look at them in JavaScript, they will look like this
 
 Did you try it out?  It should print out the message.  What happens if it's above 40?  What about if it's equal to 40?
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/bUC0wf7haKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/iOZZPiXKzHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The other side of the if statement is the else.  Notice, the block inside of the if only executes if it's true.  However, with the else, we can do something if it's false.  Take a look below.
 
@@ -83,7 +83,7 @@ The other side of the if statement is the else.  Notice, the block inside of the
 ```
 There are a couple of things to notice here. In the **else** notice that there are no parentheses.  That's because it's just saying, no matter what, if the if fails, then do whatever is in the else block.  Remember a block is anything that is surrounded by **{ }**
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/agJii1A-ocw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/0LCswRUdk2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Finally, we can also pass a parameter into our function and then pass that parameter into our if statement.  Please take a look below to see what I mean.
 
@@ -114,7 +114,7 @@ Finally, we can also pass a parameter into our function and then pass that param
 ```
 Notice that I pass the number 30 into whatToDo, and store it in the temperature variable in the function.  That variable is then used in the if statement.  Keep in mind; we can create a variable down below and pass that in too.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/ilrJ0ZaFnHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/F8klXeYVZgw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ```html
 <html>
@@ -146,7 +146,7 @@ Notice that I pass the number 30 into whatToDo, and store it in the temperature 
 ```
 So, there are many ways in which you can interact with your if statements through functions and use variables.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/vouFdyW4Lic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/QYoGayqwNfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Also, keep in mind that you can use your logical operators here too, and evaluate multiple things all at once.  For example:
 
@@ -182,7 +182,7 @@ What happened here?  I wanted to make sure I checked not only the temperature bu
 
 Now, you could have also used **\|\|**, which translates to **OR**.  That means only one of the conditions must be true for the statements in the block to be run.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/uyUmWMdfzwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/q2GU2tIPbzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -280,7 +280,7 @@ Now, run this new page with the following script.  What do you see?  Is it what 
 
 With else if statements, once one of them is true, all the others are ignored.  That is good stuff!  That means it only evaluates what is needed and no more.  And it keeps our code clean.  So, are there other control statements like this?  Yup!  It's called the **switch** statement.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/LbvWL_z-sjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/cfEC9PXcnug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -331,7 +331,7 @@ This time to test, we have to put in the actual number that matches, like 0, 10,
 
 What is so special about switch statements?  Well, did you notice the **break**  That is new.  Well, that is what makes these work like else if's.  If the break statement is not there, the program will continue to evaluate everything to true, which is not what we want!  So, we use the break to make sure we get out of the switch.  Try this out and change the numbers to see what happens.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/zIePAo1S394" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/EVcqjTvL3mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Next up, looping!  
 </div>
@@ -340,11 +340,9 @@ Next up, looping!
 <div class="tabhtml" markdown="1">
 Please feel free to experiment with the code from the other tabs. 
 
-Click on **Edit on CodePen** to experiment.
-
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="result" data-user="retrog4m3r" data-slug-hash="OJbJLvb" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Workspace">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/OJbJLvb">
-  MART 441 Workspace</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="BamQzZQ" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/BamQzZQ">
+  Control Statements</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
