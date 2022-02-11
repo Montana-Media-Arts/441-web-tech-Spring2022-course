@@ -87,11 +87,11 @@ This type of error is something is syntactically correct, but when the program r
     <head>
         <title>Arrays</title>
         <script>
-            function printArray(number)
+            function printArray()
             {
                 var food = new Array("apple", "orange", "grape");
                 var allFoods = "";
-                for(var i = 0; i < number; i++)
+                for(var i = 0; i <= food.length; i++)
                 {
                     allFoods += food[i] + "<br>";
                 }
@@ -99,8 +99,9 @@ This type of error is something is syntactically correct, but when the program r
             }        
         </script>
     </head>
-    <body onload="printArray('three');">
+    <body>
         <div id="myFoods"></div>
+        <button onclick="printArray();">Show Food</button>
     </body>
 </html>
 ```
