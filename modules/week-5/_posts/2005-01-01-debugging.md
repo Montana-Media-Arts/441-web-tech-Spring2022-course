@@ -73,7 +73,7 @@ Let's look at an example.
 
 The previous section of code is a cornucopia of syntax errors.  It will help if you run this. How many errors appear?  I only see two. Why is that?  It tries to run as best as it can, and it shows you the first two (the function is not defined and the string error).  Once you fix those, you should see more.  Now, things get trickier because they aren't quite as clear.  So, we have to go line by line and look for the basics.  Are we missing any semicolons, parentheses, curly braces?  We will look at specific techniques in a second, but let's examine the second kind of error, the Run-Time Error
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/GeUV_JkrHWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/7EKxmkCmGbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -108,7 +108,7 @@ This type of error is something is syntactically correct, but when the program r
 
 What did you see when you ran it?  Was the web page blank?  Was the console blank?  Gads!  That's not easy to figure out.  So, we have to debug.  We will need debugging tools!
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/B95O8zQj9UA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/-nLcNOZff0Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -143,7 +143,7 @@ The last type of error is logical errors. If you thought the run time errors wer
 ```
 Before you run the code, what do you think the answer is going to be?  It should be 17 if you take 3 + 5 + 0 + 9.  However, when I ran it, I got 809.  It's still a number, so to the casual observer, this could be correct.  However, we know that because the + sign can either add or concatenate, it was doing both here. It added the first two numbers together and then concatenated the last two the sum of the first two numbers.  Tricky!  
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/SfvOAlMhnB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/Qi8F_lg87o4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 So, how do we find these evil creatures?  Well, that's where we employ some tools.
 
@@ -158,9 +158,9 @@ So, how do we find these evil creatures?  Well, that's where we employ some tool
 5. Ask for help.  Don't be afraid to ask for help in forums, groups, classmates, colleagues, me (at the moment, but even after the class! --- I hope that's a value add).  You don't have to know everything about everything off the top of your head.  I don't, and I certainly have asked for help before.  It's good to ask for help. 
 
 So, that's my story about debugging. I hope this has been helpful, and I hope you can employ some of these techniques to make your programming life easier and more enjoyable.
-
+<!--
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/kFRJeELnsPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
+-->
 </div>
 </div>
 <div id="ToDo" class="tabcontent" >
