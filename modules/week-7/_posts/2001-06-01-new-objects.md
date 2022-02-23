@@ -28,7 +28,7 @@ let myPerson = new Person( eyeColor, hairColor );
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gGc6NUT1Mnc" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-ghsGAoeCHE" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -52,7 +52,7 @@ myPerson.hairColor = "purple"; // ← sets the value of the property to purple
 
 **NOTE:** Typically, when using classes and OOP paradigms, setting object properties with this notation is considered poor style. Direct access can lead to errors in code, and we will discuss this later.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/r4mjFdaet5E" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Uy2eoZmTyIY" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -71,7 +71,7 @@ myPerson.timeToTravel(distance); // ← execute the function and pass it one inp
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/q_wACy_hEGI" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RPs_BEacEPk" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>

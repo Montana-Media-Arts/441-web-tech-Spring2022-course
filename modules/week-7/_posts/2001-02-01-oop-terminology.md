@@ -58,7 +58,7 @@ And we can create more people from the same class.  The beautiful part is that w
 
 We will dig into Classes and Object in more detail in the next section.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KpR0JqDM7l4" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BczAoKwOxqg" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -74,7 +74,7 @@ In our previous example, the properties were Eye color, Number of Legs, Number o
 
 When we created the object, they all had values like Blue eyes, two legs, etc.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ri_LeIl5YnQ" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Asa_3wjnGms" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -86,7 +86,7 @@ When we created the object, they all had values like Blue eyes, two legs, etc.
 
 An object or class **function** is what "does stuff."  So, any function you create, which you have done already, does stuff for you.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AdjzvrJgjbw" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IahFRMTL7ck" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -100,7 +100,7 @@ When we create a new _object_ from a _class_, we are **instantiating** the _new_
 
 As we will see throughout this week's content, to create a new _instance_ of a class, we will use the JavaScript keyword `new`.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ai-7VOugRNw" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PY7RD9FIAXs" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -114,7 +114,7 @@ A potentially confusing idea is the reference to "specific instances" of an obje
 
 JavaScript uses the `this` keyword throughout the language. Using `this` can be very confusing (hence why it has remained anonymous until now). Before we dive deep into `this`, try and accept that `this` refers to a variable in the object itself.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EhG17j2FmwM" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VBoT7ZIVIqk" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>

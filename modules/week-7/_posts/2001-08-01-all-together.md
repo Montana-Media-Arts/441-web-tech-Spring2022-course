@@ -116,8 +116,6 @@ toString() {
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZsP8v5D1ur4" frameborder="0" allowfullscreen></iframe></div>
-
 #### Person walking
 
 To walk, the Person will need a walking function.
@@ -141,7 +139,7 @@ timeToTravel()
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/G8zPtAv139U" frameborder="0" allowfullscreen></iframe></div>
+
 
 </div>
 </div>
@@ -165,7 +163,7 @@ An example would be something like this:
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jxKCJP51Rl8" frameborder="0" allowfullscreen></iframe></div>
+
 
 </div>
 </div>
@@ -306,7 +304,7 @@ Look how clean and straightforward that code below looks! It is so easy to read 
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hf-z7przdp0" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2YCUDrv3RjM" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
