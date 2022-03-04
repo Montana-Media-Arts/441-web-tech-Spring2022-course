@@ -12,8 +12,8 @@ jotted: false
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
 <button class="tablinks" onclick="openTab(event, 'document')">document</button>
   <button class="tablinks" onclick="openTab(event, 'selector')">selector</button>
-  <button class="tablinks" onclick="openTab(event, 'buttonclick')">button.click</button>
-  <button class="tablinks" onclick="openTab(event, 'specificid')">Specific id</button>
+  <button class="tablinks" onclick="openTab(event, 'buttonclick')">Specific id</button>
+  <button class="tablinks" onclick="openTab(event, 'specificid')">Specific class</button>
   <button class="tablinks" onclick="openTab(event, 'this')">this</button>
   <button class="tablinks" onclick="openTab(event, 'example')">Example</button>
    <button class="tablinks" onclick="openTab(event, 'todo')">To Do</button>
@@ -102,15 +102,17 @@ One example that we discussed above is changing all the tags at once.  You can u
 </html>
 ```
 
+
+Notice, when you click on the button, it calls this **$("button").click** and then performs the function.  This is new syntax, but it really common in jQuery, so you will see this is many instances.
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_imDTAXNC4c" frameborder="0" allowfullscreen></iframe></div>
+
 </div>
 </div>
 
 <div id="buttonclick" class="tabcontent">
 <div class="tabhtml" markdown="1">
 
-Notice, when you click on the button, it calls this **$("button").click** and then performs the function.  This is new syntax, but it really common in jQuery, so you will see this is many instances.
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_imDTAXNC4c" frameborder="0" allowfullscreen></iframe></div>
 
 We can also find something by id by using the **$** and then the **#** aka hashtag - the cool kids use this.  This should look familiar.  From CSS right?
 
@@ -143,6 +145,9 @@ We can also find something by id by using the **$** and then the **#** aka hasht
 
 </html>
 ```
+This time only the paragraph with the id **infoid** will disappear while the other **p** tag remains visible.
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wd5AHOC1Z6Q" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -150,9 +155,7 @@ We can also find something by id by using the **$** and then the **#** aka hasht
 <div id="specificid" class="tabcontent">
 <div class="tabhtml" markdown="1">
 
-This time only the paragraph with the id **infoid** will disappear while the other **p** tag remains visible.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wd5AHOC1Z6Q" frameborder="0" allowfullscreen></iframe></div>
 
 You can also find items by their class name and you guessed it, you use the dot `.` to find it.  For example, it might look like this:
 
