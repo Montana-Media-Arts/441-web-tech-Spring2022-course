@@ -33,7 +33,7 @@ This will return a jQuery object containing a reference to the all of the matchi
 
 As you will learn, it is from this object that most of your work will occur for jQuery.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8_o6b0wUHIU" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/M3sbe-GaCo0" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -60,7 +60,7 @@ $(function(){
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zOy5hf8GvXE" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/k7U4x9Qn15c" frameborder="0" allowfullscreen></iframe></div>
 
 Once, you have a jQuery script in place, you can perform different actions such as manipulate the DOM.
 
@@ -105,7 +105,7 @@ One example that we discussed above is changing all the tags at once.  You can u
 
 Notice, when you click on the button, it calls this **$("button").click** and then performs the function.  This is new syntax, but it really common in jQuery, so you will see this is many instances.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_imDTAXNC4c" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/b9ilg3crJVI" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -114,7 +114,7 @@ Notice, when you click on the button, it calls this **$("button").click** and th
 <div class="tabhtml" markdown="1">
 
 
-We can also find something by id by using the **$** and then the **#** aka hashtag - the cool kids use this.  This should look familiar.  From CSS right?
+We can also find something by id by using the **$** and then the **#** aka hashtag.  This should look familiar.  From CSS right?
 
 ```html
 <!DOCTYPE html>
@@ -190,7 +190,7 @@ You can also find items by their class name and you guessed it, you use the dot 
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BPDwcA6RKeM" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-oTJmYiACZY" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -230,7 +230,7 @@ What if we want to find the item that was just clicked? Well, you are in luck!  
 </html>
 ```
 <br/>
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1CRjAS0CF1Y" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1z1R96FgHJs" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -271,7 +271,7 @@ So, what is really happening behind the scenes?  Does it really remove the item?
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GyYDWOJnncg" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TBGbP_VTS0Q" frameborder="0" allowfullscreen></iframe></div>
 
 So, where do we go from here?  Let's go to the next page and find out!
 </div>
@@ -281,7 +281,7 @@ So, where do we go from here?  Let's go to the next page and find out!
 
 Click on "Edit on CodePen" to edit and work with the code.
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="eYByzjd" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="jQuery Example 1">
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="eYByzjd" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="jQuery Example 1">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/eYByzjd">
   jQuery Example 1</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>

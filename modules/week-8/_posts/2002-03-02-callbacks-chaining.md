@@ -63,7 +63,7 @@ With each jQuery method, you can also add a callback function.  What is that?  A
 
 So, what just happened?  The paragraph element fades out slowly when the button is clicked.  After the paragraph fades away, then the paragraph with the id **infoid** will toggle.  Keep in mind, it doesn't have to be another jQuery method, it can anything you want in there.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YfoY3_36cHM" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XsWeVTvghq4" frameborder="0" allowfullscreen></iframe></div>
 
 
 </div>
@@ -108,7 +108,7 @@ So, what is chaining?  This allows us to call multiple methods and have them app
 
 Using the dot operator, we can chain multiple jQuery functions together and have them execute one after another.  Cool huh?
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w-2W1CS8mbg" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qijbQgU7Cpg" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -120,7 +120,7 @@ Click on "Edit on CodePen" to edit and work with the code.
 
 #### Callbacks
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="gOLowBP" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="jQuery Callbacks">
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="gOLowBP" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="jQuery Callbacks">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/gOLowBP">
   jQuery Callbacks</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>

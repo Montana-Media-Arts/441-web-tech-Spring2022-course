@@ -65,7 +65,7 @@ Let's see these in action.
 
 This code should return just the inner text of the paragraph tag.  
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OVwOulkRlqI" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lYyreBoQfvY" frameborder="0" allowfullscreen></iframe></div>
 
 
 </div>
@@ -105,7 +105,7 @@ However, using the **html** method, we should get everything including the bold 
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/evCDKmkQSYM" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ilSXNIQk88Y" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -146,7 +146,7 @@ Finally, if we want to get something out of a textfield, we can use the val() me
 
 You have to admit, it's definitely shorter! I know it's different syntax, but you are doing some really cool stuff here.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cfK9I95BYsw" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sSSC5k0dvJk" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -185,7 +185,7 @@ So, what about if you want to change the text of a tag in the DOM?  Before, we u
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/X89m1dnVe5o" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/awdTqekBPFw" frameborder="0" allowfullscreen></iframe></div>
 
 I can do that with the html() and val() methods as well. Now, that is good stuff!  Keep in mind, there are a lot more things we can do with jQuery, but I wanted to just introduce you to the concept this week and then we will go into more functionality next week.
 

@@ -70,7 +70,7 @@ Here is an example:
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uO4Qxymj26w" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/O1tUWg-p3Og" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -114,7 +114,7 @@ What about animate?  It is a little different than the other methods listed abov
 
 Again, we are just updating the style of this particular tag, but in a cooler way by adjusting its left property.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/72rOPWTTiYA" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cCVMEz90psI" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -124,7 +124,7 @@ Again, we are just updating the style of this particular tag, but in a cooler wa
 
 Click on "Edit on CodePen" to edit and work with the code.
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="ZEBvOqp" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="jQuery Example 2">
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="ZEBvOqp" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="jQuery Example 2">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/ZEBvOqp">
   jQuery Example 2</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
