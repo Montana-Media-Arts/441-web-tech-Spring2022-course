@@ -169,7 +169,7 @@ Keep in mind that I used the `.html` function so that I could display the break 
 <div class="tabhtml" markdown="1">
 #### JavaScript Example
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="RwoBVrJ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JavaScript Example - read JSON">
+<p class="codepen" data-height="500" data-theme-id="dark" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="RwoBVrJ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JavaScript Example - read JSON">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/RwoBVrJ">
   JavaScript Example - read JSON</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -178,7 +178,7 @@ Keep in mind that I used the `.html` function so that I could display the break 
 
 #### jQuery Example
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="GRNBmpX" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="jQuery Example - read JSON">
+<p class="codepen" data-height="500" data-theme-id="dark" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="GRNBmpX" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="jQuery Example - read JSON">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/GRNBmpX">
   jQuery Example - read JSON</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
