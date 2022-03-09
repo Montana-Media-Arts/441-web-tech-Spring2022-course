@@ -60,7 +60,7 @@ So, what does the whole page look like?
 
 If you were to run this page, the background color of our div tag would turn blue when you click the button. Low and behold, we have a new look based on our function.  
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ammsnsb6Ngg" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NgM0gEnPunY" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -98,7 +98,7 @@ We can have it apply to any tags we want.  And we can add more changes to the sa
 ```
 <br/>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/97wPti2QG-s" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/znNJ4rzpq-s" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -156,7 +156,7 @@ What this means is that we can do something like this now:
 
 At this point, you can create a simple jQuery plugin.  Come on, that's pretty cool!
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/D-awHrt-Ves" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8jmdaCeECB4" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -166,7 +166,7 @@ At this point, you can create a simple jQuery plugin.  Come on, that's pretty co
 
 #### Basic jQuery Plugin
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="QWGBgWK" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Basic jQuery Plugin">
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="QWGBgWK" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Basic jQuery Plugin">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/QWGBgWK">
   Basic jQuery Plugin</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>

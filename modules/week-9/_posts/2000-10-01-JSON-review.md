@@ -52,7 +52,7 @@ let bike = {
 
 Once this object is bound to the variable `bike`, we can navigate through it and access its unique values.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KQMSfQr8GT4" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EG-o6pWBehI" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -99,7 +99,7 @@ The following example creates the same object as above but also demonstrates how
 ```
 This shows us traditional JSON key/value pairs, as well as JSON inside of JSON and an array inside of JSON.  That is good stuff!
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ND9uNZIv9g8" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yqruPwZh-eo" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -160,7 +160,7 @@ Let's look at an example:
 
 Keep in mind that I used the `.html` function so that I could display the break tags correctly.  Otherwise, everything else was pretty much the same.  All this information is exciting! It's all coming together.  So, why do we review JSON?  Well, as we talked about before, it's a ubiquitous delivery method from many different sources so we can read information from databases and server-side pages because they will give information back to the client via JSON.  So, let's look at AJAX.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/485pJBoSrpg" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vRCnXeKLFsM" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
@@ -169,7 +169,7 @@ Keep in mind that I used the `.html` function so that I could display the break 
 <div class="tabhtml" markdown="1">
 #### JavaScript Example
 
-<p class="codepen" data-height="500" data-theme-id="dark" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="RwoBVrJ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JavaScript Example - read JSON">
+<p class="codepen" data-height="500" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="RwoBVrJ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="JavaScript Example - read JSON">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/RwoBVrJ">
   JavaScript Example - read JSON</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -178,7 +178,7 @@ Keep in mind that I used the `.html` function so that I could display the break 
 
 #### jQuery Example
 
-<p class="codepen" data-height="500" data-theme-id="dark" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="GRNBmpX" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="jQuery Example - read JSON">
+<p class="codepen" data-height="500" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="GRNBmpX" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="jQuery Example - read JSON">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/GRNBmpX">
   jQuery Example - read JSON</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
