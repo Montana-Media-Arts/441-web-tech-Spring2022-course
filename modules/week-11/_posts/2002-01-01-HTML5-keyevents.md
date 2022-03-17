@@ -1,6 +1,6 @@
 ---
 title: HTML5 Key Events
-module: 10
+module: 11
 jotted: true
 ---
 

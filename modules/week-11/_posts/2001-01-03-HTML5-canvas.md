@@ -1,6 +1,6 @@
 ---
 title: HTML5 Canvas
-module: 10
+module: 11
 jotted: true
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Week 13 Conclusions
-module: 13
+title: Week 12 Conclusions
+module: 12
 ---
 
 # Conclusions
 
-This week we worked with another library and interacted with 3D objects.
+This week looked at the first of two different libraries.  This one is a popular web game engine, and next week we will look at another library.
