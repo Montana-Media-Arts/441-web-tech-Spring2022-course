@@ -11,6 +11,7 @@ jotted: true
   <button class="tablinks" onclick="openTab(event, 'keyevents')">Key Events</button>
   <button class="tablinks" onclick="openTab(event, 'todo')">To Do</button>
   <button class="tablinks" onclick="openTab(event, 'hint')">Hint</button>
+  <button class="tablinks" onclick="openTab(event, 'video')">Video</button>
   <button class="tablinks" onclick="openTab(event, 'todo2')">To Do</button>
   
 </div>

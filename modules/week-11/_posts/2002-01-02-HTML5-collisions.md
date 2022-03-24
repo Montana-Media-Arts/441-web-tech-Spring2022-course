@@ -12,7 +12,7 @@ jotted: true
   <button class="tablinks" onclick="openTab(event, 'twoshapes')">Two Shapes</button>
   <button class="tablinks" onclick="openTab(event, 'movement')">Movement</button>
   <button class="tablinks" onclick="openTab(event, 'collision')">Collision</button>
-  
+  <button class="tablinks" onclick="openTab(event, 'video')">Video</button>
 </div>
 <div id="Overview" class="tabcontent" style="display:block">
 <div class="tabhtml" markdown="1">
