@@ -20,8 +20,6 @@ jotted: true
 <div id="Overview" class="tabcontent" style="display:block">
 <div class="tabhtml" markdown="1">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pu0i31fMOpQ" frameborder="0" allowfullscreen></iframe></div>
-
 Two of the most exciting tag elements introduced in HTML5 is the `audio` and `video` tags.  These tags allow us to embed audio and video just as easily as when we integrated images into our sites.
 
 </div>
