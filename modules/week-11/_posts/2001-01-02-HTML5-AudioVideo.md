@@ -81,7 +81,7 @@ Similarly, the video controls work the same way.  The syntax looks like this:
 
 ![Example of Audio](../imgs/audio.png "Example of Audio")
 
-<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="BaQvbBx" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Audio Example">
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="BaQvbBx" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/BaQvbBx">
   MART 441 Audio Example</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -90,7 +90,7 @@ Similarly, the video controls work the same way.  The syntax looks like this:
 
 ![Example of Video](../imgs/video.png "Example of Video")
 
-<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="wvoROBx" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Video Example">
+<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="wvoROBx" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/wvoROBx">
   MART 441 Video Example</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -177,7 +177,7 @@ function updateVideo()
 ![Example of Change](../imgs/change.png "Example of Change")
 
 
-<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="gOLZEav" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Change Audio/Video">
+<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="gOLZEav" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/gOLZEav">
   MART 441 Change Audio/Video</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -260,7 +260,7 @@ and the HTML file would look something like this:
 
 ![Example of Change](../imgs/change.png "Example of Change")
 
-<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="JjbwzXR" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 jQuery Change Audio/Video">
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="JjbwzXR" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/JjbwzXR">
   MART 441 jQuery Change Audio/Video</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
