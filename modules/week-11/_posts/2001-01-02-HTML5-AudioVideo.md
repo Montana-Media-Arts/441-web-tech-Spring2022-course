@@ -37,7 +37,7 @@ For Audio, the syntax is like this:
         <title>Audio/Video</title>
     </head>
     <body>
-        <audio id="song" src="https://montana-media-arts.github.io/441-WebTech-Spring2021-Examples/Week%2010/Brahms.mp3" controls="controls">
+        <audio id="song" src="https://music.youtube.com/watch?v=S6Y1gohk5-A&feature=share" controls="controls">
         </audio>
         <br>
     </body>
@@ -61,7 +61,7 @@ Similarly, the video controls work the same way.  The syntax looks like this:
     </head>
     <body>
 
-        <video id="film" src="https://montana-media-arts.github.io/441-WebTech-Spring2021-Examples/Week%2010/BOOM.mp4" type="video/mp4" controls="true">
+        <video id="film" src="https://youtu.be/TvnYmWpD_T8" type="video/mp4" controls="true">
         </video>
     </body>
 </html>
@@ -84,7 +84,7 @@ Similarly, the video controls work the same way.  The syntax looks like this:
 
 ![Example of Audio](../imgs/audio.png "Example of Audio")
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="BaQvbBx" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Audio Example">
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="BaQvbBx" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Audio Example">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/BaQvbBx">
   MART 441 Audio Example</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -93,7 +93,7 @@ Similarly, the video controls work the same way.  The syntax looks like this:
 
 ![Example of Video](../imgs/video.png "Example of Video")
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="wvoROBx" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Video Example">
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="html,result" data-user="retrog4m3r" data-slug-hash="wvoROBx" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Video Example">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/wvoROBx">
   MART 441 Video Example</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -114,14 +114,14 @@ For audio, it looks like this:
 
 ```javascript
     var audio = document.getElementById("song");
-    audio.src="https://montana-media-arts.github.io/441-WebTech-Spring2021-Examples/Week%2010/Brahms.mp3";
+    audio.src="https://music.youtube.com/watch?v=S6Y1gohk5-A&feature=share";
 ```
 
 and for the video, it would like like this:
 
 ```javascript
     var film = document.getElementById("film");
-    film.src="https://montana-media-arts.github.io/441-WebTech-Spring2021-Examples/Week%2010/Cat.mp4";
+    film.src="https://youtu.be/TvnYmWpD_T8";
 ```
 
 So, if we put it all together now.  The HTML file would look like this:
@@ -134,10 +134,10 @@ So, if we put it all together now.  The HTML file would look like this:
     </head>
     <body>
 
-        <audio id="song" src="https://montana-media-arts.github.io/441-WebTech-Spring2021-Examples/Week%2010/Brahms.mp3" controls="controls">
+        <audio id="song" src="https://music.youtube.com/watch?v=S6Y1gohk5-A&feature=share" controls="controls">
         </audio>
         <br>
-        <video id="film" src="https://montana-media-arts.github.io/441-WebTech-Spring2021-Examples/Week%2010/BOOM.mp4" type="video/mp4" controls="true">
+        <video id="film" src="https://youtu.be/TvnYmWpD_T8" type="video/mp4" controls="true">
         </video>
 
         <p></p>
