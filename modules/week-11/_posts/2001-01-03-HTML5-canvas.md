@@ -118,3 +118,11 @@ So, what else can we do?
 
 </div>
 </div>
+
+<div id="video" class="tabcontent">
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NJ2VfM8PV3E" frameborder="0" allowfullscreen></iframe></div>
+
+</div>
+</div>

@@ -8,13 +8,14 @@ jotted: true
 
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
-<button class="tablinks" onclick="openTab(event, 'audio')">Audio</button>
-  <button class="tablinks" onclick="openTab(event, 'video')">Video</button>
+<button class="tablinks" onclick="openTab(event, 'audio')">Audio Tag</button>
+  <button class="tablinks" onclick="openTab(event, 'video')">Video Tag</button>
   <button class="tablinks" onclick="openTab(event, 'todo')">To Do</button>
   <button class="tablinks" onclick="openTab(event, 'changesource')">Change Source</button>
   <button class="tablinks" onclick="openTab(event, 'todo2')">To Do</button>
   <button class="tablinks" onclick="openTab(event, 'changejquery')">jQuery Changes</button>
 <button class="tablinks" onclick="openTab(event, 'todo3')">To Do</button>
+  <button class="tablinks" onclick="openTab(event, 'watchvideo')">Video</button>
 </div>
 <div id="Overview" class="tabcontent" style="display:block">
 <div class="tabhtml" markdown="1">
@@ -271,6 +272,14 @@ and the HTML file would look something like this:
 Did you get it again? Yes? Good job! I knew you could do it!
 
 So, what about the canvas?
+
+</div>
+</div>
+
+<div id="watchvideo" class="tabcontent">
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Uedm1f5ey_E" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
