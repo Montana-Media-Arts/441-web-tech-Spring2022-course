@@ -42,11 +42,9 @@ Now, wait a minute. You might have thought that objects were going away. But wha
 <div id="createclass" class="tabcontent">
 <div class="tabhtml" markdown="1">
 
-## Try it out!
-
 Do you remember how to create a class? Can you create a class called Square with the properties x, y, height, width, and color?  Then, create your constructor and getters and setters.
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="OJbrqza" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Class and Canvas">
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="OJbrqza" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Class and Canvas">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/OJbrqza">
   MART 441 Class and Canvas</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -61,11 +59,9 @@ Check to see if everything is in your objects by writing to the console.  Did it
 <div id="twoshapes" class="tabcontent">
 <div class="tabhtml" markdown="1">
 
-## Try it yourself!
-
 Can you create two squares and add them to the screen? Make them different colors and different sizes. (I know you can!  The power is in you!).
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="ExNGMRZ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Canvas Multiple Shapes">
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="ExNGMRZ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Canvas Multiple Shapes">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/ExNGMRZ">
   MART 441 Canvas Multiple Shapes</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -78,11 +74,9 @@ Can you create two squares and add them to the screen? Make them different color
 <div id="movement" class="tabcontent">
 <div class="tabhtml" markdown="1">
 
-## Try it yourself!
-
 Now, can you make the one square move with the KeyEvents using WASD?  Yes, yes, you can!
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="gOLZEjB" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Canvas, Objects, Movement">
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="gOLZEjB" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Canvas, Objects, Movement">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/gOLZEjB">
   MART 441 Canvas, Objects, Movement</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -97,11 +91,9 @@ Now, can you make the one square move with the KeyEvents using WASD?  Yes, yes, 
 
 Look how far you have come!  I am so proud of you!
 
-## Try it yourself!
-
 Now, here comes the new stuff, check for collision.  You can use the code above and check the collision between your two squares each time the first square moves.  Just make sure that the first square can no longer move or have the first square move back a bit from the second square (like a bounce)if they collide or move. It's up to you!
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="BaQvbvE" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Canvas Collision">
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="BaQvbvE" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Canvas Collision">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/BaQvbvE">
   MART 441 Canvas Collision</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>

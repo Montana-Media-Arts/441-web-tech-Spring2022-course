@@ -92,11 +92,9 @@ Remember `this`?  It's back!  The `this` keyword allows us to check for keyEvent
 <div id="todo" class="tabcontent">
 <div class="tabhtml" markdown="1">
 
-## You try it out!
-
 How can you use the code above to move the square up?  Don't worry about the other directions (yet).
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="NWbeJgo" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Key Events">
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="NWbeJgo" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Key Events">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/NWbeJgo">
   MART 441 Key Events</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -145,7 +143,7 @@ Did you notice I put the drawSquare function in after the if statement?  Why did
 
 Can you put add the other letters? 
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="gOLZEGj" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Key Events - Up">
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="gOLZEGj" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Key Events - Up">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/gOLZEGj">
   MART 441 Key Events - Up</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
