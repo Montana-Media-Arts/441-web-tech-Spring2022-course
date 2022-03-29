@@ -93,11 +93,3 @@ Now, use the Square class and then use the fillRect above using the object you c
 
 Using your **object** and your **key events**, make sure you can update your object properties and move the square.  
 
-
-
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="xxRNxRN" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MART 441 Week 11 Canvas Square">
-  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/xxRNxRN">
-  MART 441 Week 11 Canvas Square</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
