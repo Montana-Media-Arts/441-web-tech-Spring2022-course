@@ -6,7 +6,7 @@ jotted: true
 
 # Combining JSON, Classes, and Arrays
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dD-rIIuEUJw" frameborder="0" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AL1el_03yzI" frameborder="0" allowfullscreen></iframe></div>
 
 Combine the JSON that you created by creating objects from your class and adding them to your array.  Then, make each of the indices in your array appear on your canvas.
 
