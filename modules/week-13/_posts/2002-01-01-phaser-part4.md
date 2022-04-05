@@ -57,8 +57,6 @@ Now, we are going to create some platforms.  They will be added to a group first
         this.load.spritesheet('dude', 'assets/dude.png', { frameWidth: 32, frameHeight: 48 });
     }
 
-    var platforms;
-
     function create ()
     {
         this.add.image(400, 300, 'sky');
