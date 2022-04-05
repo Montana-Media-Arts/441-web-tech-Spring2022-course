@@ -1,12 +1,12 @@
 ---
 title: Phaser.io Part 3
-module: 12
+module: 13
 jotted: true
 ---
 
 # Phaser.io Part 3
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tz2UBmQnoBI" frameborder="0" allowfullscreen></iframe></div>
+
 
 Now, we are going to make one of the images appear.
 

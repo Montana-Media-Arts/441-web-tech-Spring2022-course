@@ -1,12 +1,10 @@
 ---
 title: Phaser.io Part 8
-module: 12
+module: 13
 jotted: true
 ---
 
 # Phaser.io Part 8
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/26rY57BJpvE" frameborder="0" allowfullscreen></iframe></div>
 
 
 To make this more interesting, let's add some stars to collect. They will fall from the sky, and the player will receive them.

@@ -1,13 +1,14 @@
 ---
 title: Phaser.io Setup
-module: 12
+module: 13
 jotted: true
 ---
 
 # Phaser.io Install
 
+<!--
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/HHsKBnSrTKE" frameborder="0" allowfullscreen></iframe></div>
-
+-->
 
 First, go to Phaser.io and download the library.  From there, know that you need a live server to make this work. You can get this as an add-on in Atom and Visual Studio Code.  I won't run correctly otherwise.
 
@@ -15,29 +16,21 @@ First, go to Phaser.io and download the library.  From there, know that you need
 
 The easiest thing to do is install live server in your editor.  Whenever you try and open your application make sure you choose "Open with Live Server".
 
-![Live Server](../imgs/LiveServerVSCode.png "Live Server VS Code")
-
-![Live Server](../imgs/LiveServerAtom1.png "Live Server Atom Search")
-
-![Live Server](../imgs/LiveServerAtom2.png "Live Server Atom Install")
-
-
 ## Download Phaser.io
 
-<a href="http://phaser.io/tutorials/getting-started-phaser3/part4" target="_new">Download the library</a>
+<a href="http://phaser.io/tutorials/getting-started-phaser3/part4" target="_blank">Download the library</a>
 
 ## Assets
 
 Don't forget to get the assets from GitHub.
 
-<a href="https://github.com/photonstorm/phaser3-examples" target="_new">Get the Assets</a>
+<a href="https://github.com/photonstorm/phaser3-examples" target="_blank">Get the Assets</a>
 
-<a href="https://github.com/Montana-Media-Arts/441-WebTech-Spring2021-Examples" target="_new">Assets for the walkthrough</a>
+<a href="https://github.com/Montana-Media-Arts/441-WebTech-Spring2022-Examples" target="_blank">Assets for the walkthrough</a>
 Put these directly in the assets folder.
 
 ## Create a "Hello World!" in Phaser.io
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xEvFkYvuZmI" frameborder="0" allowfullscreen></iframe></div>
 
 ```html
 <!DOCTYPE html>

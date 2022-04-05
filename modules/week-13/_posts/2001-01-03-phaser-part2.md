@@ -1,12 +1,11 @@
 ---
 title: Phaser.io Part 2
-module: 12
+module: 13
 jotted: true
 ---
 
 # Phaser.io Part 2
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mKbaClVmG0U" frameborder="0" allowfullscreen></iframe></div>
 
 In this next second section, we will pre-load all the image assets.  Let's take a look:
 

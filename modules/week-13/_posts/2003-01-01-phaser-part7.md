@@ -1,12 +1,12 @@
 ---
 title: Phaser.io Part 7
-module: 12
+module: 13
 jotted: true
 ---
 
 # Phaser.io Part 7
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/a5wiZ2knCTI" frameborder="0" allowfullscreen></iframe></div>
+
 
 Let's make the player move now.  The movement of the player must happen in the update function as it gets called each frame.  It allows you to press keys and change the velocity of the player.
 
