@@ -6,7 +6,7 @@ jotted: true
 
 # Phaser.io Part 5
 
-
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xqsLwFgCfXI" frameborder="0" allowfullscreen></iframe></div>
 
 In this next section, the player gets added, as well as the player animations.  It just goes through a sprite sheet.
 

@@ -6,7 +6,7 @@ jotted: true
 
 # Phaser.io Part 6
 
-
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/H7qfm14qTsA" frameborder="0" allowfullscreen></iframe></div>
 
 The beautiful part about Phaser is that it gives us a built-in collision system.  Remember how we had to deal with it ourselves?  This library handles the collisions with a straightforward statement. Nice eh?
 

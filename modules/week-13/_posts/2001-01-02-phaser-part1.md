@@ -7,6 +7,7 @@ jotted: true
 # Phaser.io Part 1
 
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fqEPgDpOnZc" frameborder="0" allowfullscreen></iframe></div>
 
 This first part is just setting up the canvas. Even though you may not have seen this library before, the concepts will look the same.  Let's look at the first step.  Create a file called: part1.html and paste this code into it:
 

@@ -7,6 +7,7 @@ jotted: true
 # Phaser.io Part 3
 
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/X5RhcgiSS1U" frameborder="0" allowfullscreen></iframe></div>
 
 Now, we are going to make one of the images appear.
 
