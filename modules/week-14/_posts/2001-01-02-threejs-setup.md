@@ -73,7 +73,7 @@ So, where do we go from here?
 <div class="tabhtml" markdown="1">
 So, what does this look like when it's all together.  Check out this CodePen and make changes if you want.
 
-<p class="codepen" data-height="358" data-theme-id="light" data-default-tab="js,result" data-user="retrog4m3r" data-slug-hash="vYggmZm" style="height: 158px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Initial threejs">
+<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="vYggmZm" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/vYggmZm">
   Initial threejs</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
