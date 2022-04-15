@@ -1,6 +1,6 @@
 ---
 title: Setup the server
-module: 14
+module: 15
 jotted: true
 ---
 
