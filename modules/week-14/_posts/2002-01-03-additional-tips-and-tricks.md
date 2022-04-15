@@ -1,12 +1,10 @@
 ---
 title: Additional Tips and Tricks
-module: 13
+module: 14
 jotted: true
 ---
 
 # Additional Tips and Tricks
-
-
 
 If you are interested in pursuing threejs further, here is a resource providing some tips and tricks on making your threejs projects even more interesting.
 
