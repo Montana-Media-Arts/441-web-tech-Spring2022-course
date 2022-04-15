@@ -10,6 +10,7 @@ jotted: true
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
 
   <button class="tablinks" onclick="openTab(event, 'Animate')">Animate</button>
+   <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
   <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
   
 </div>
@@ -73,6 +74,15 @@ Now, think about this for a second.  It's just rotating on its own. That's prett
 What else can we do?  Move on and find out!
 </div>
 </div>
+
+<div id="Video" class="tabcontent">
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/A-kA3J2vvXw" frameborder="0" allowfullscreen></iframe></div>
+
+</div>
+</div>
+
 <div id="ToDo" class="tabcontent">
 <div class="tabhtml" markdown="1">
 

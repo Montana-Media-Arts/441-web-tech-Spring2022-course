@@ -10,6 +10,7 @@ jotted: true
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
 
   <button class="tablinks" onclick="openTab(event, 'Sections')">Sections</button>
+  <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
   <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
   
 </div>
@@ -67,6 +68,14 @@ The first line creates the scene by accessing the threejs library and then sets 
 If you run this, you should see a black screen. Not too exciting, is it?  
 
 So, where do we go from here?
+</div>
+</div>
+
+<div id="Video" class="tabcontent">
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XDoyMTHwxfk" frameborder="0" allowfullscreen></iframe></div>
+
 </div>
 </div>
 <div id="ToDo" class="tabcontent">

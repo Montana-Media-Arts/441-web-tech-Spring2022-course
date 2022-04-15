@@ -6,6 +6,8 @@ jotted: true
 
 # Additional Tips and Tricks
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/y2VpUOb9vTc" frameborder="0" allowfullscreen></iframe></div>
+
 If you are interested in pursuing threejs further, here is a resource providing some tips and tricks on making your threejs projects even more interesting.
 
 ## Beginner Friendly Tips, or Help! Why Can’t I See Anything?
