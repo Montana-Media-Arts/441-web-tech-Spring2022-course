@@ -6,6 +6,8 @@ jotted: true
 
 # File System
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MQOtypUazP4" frameborder="0" allowfullscreen></iframe></div>
+
 Node implements File I/O using simple wrappers around standard POSIX functions. The Node File System (fs) module can be imported using the following syntax −
 
 ```js

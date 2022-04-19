@@ -6,6 +6,8 @@ jotted: true
 
 # Install node.js
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0WX5KtCOOGA" frameborder="0" allowfullscreen></iframe></div>
+
 There is an option to try node.js without installing it. It's located here.
 
 <a href="https://www.tutorialspoint.com/execute_nodejs_online.php" target="_new">Online node.js</a>

@@ -6,6 +6,8 @@ jotted: true
 
 # Callbacks
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/H1OCSK22GQQ" frameborder="0" allowfullscreen></iframe></div>
+
 **What is Callback?**
 
 Callback is an asynchronous equivalent for a function. **A callback function is called at the completion of a given task.** Node makes heavy use of callbacks. All the APIs of Node are written in such a way that they support callbacks.

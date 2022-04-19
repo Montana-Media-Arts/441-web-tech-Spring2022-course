@@ -6,6 +6,8 @@ jotted: true
 
 # Setup the server
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KH2YY49kojw" frameborder="0" allowfullscreen></iframe></div>
+
 Before creating an actual "Hello, World!" application using Node.js, let us see the components of a Node.js application. A Node.js application consists of the following three important components −
 
 **Import required modules** − We use the require directive to load Node.js modules.
